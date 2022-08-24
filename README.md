@@ -1,2 +1,2 @@
-# Java-Script-Practice
-Leanring JavaScript 
+# Git practice
+Practice git
